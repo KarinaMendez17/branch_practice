@@ -20,3 +20,13 @@
 - Concéntrate en mantener el cuerpo alineado y la cabeza ligeramente fuera del agua para respirar correctamente.
 - Finaliza con 5 minutos de nado suave y estiramientos de brazos, espalda y piernas fuera del agua.
 - Mantén respiraciones profundas y regulares para no fatigarte rápidamente.
+
+
+## Consejos y precauciones.🚧
+
+- Usa siempre gafas de natación para proteger los ojos del cloro.
+- Hidrátate antes y después de nadar, aunque estés en el agua.
+- No nades si tienes alguna lesión abierta o problemas de oído sin protección.
+- Ajusta la intensidad y duración según tu nivel de experiencia.
+- Evita nadar solo en piscinas o aguas abiertas si no estás seguro de tu capacidad.
+- Respeta las normas de seguridad de la piscina o del espacio acuático.
