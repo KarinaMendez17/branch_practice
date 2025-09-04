@@ -20,3 +20,13 @@
 3. Incrementa la velocidad o la resistencia de manera gradual durante 20 a 30 minutos, manteniendo un ritmo constante.
 4. Termina con 5 minutos de pedaleo suave para enfriar y estiramientos de piernas y espalda.
 5. Mantén la respiración regular y controla la cadencia para no sobrecargar músculos ni articulaciones.
+
+
+## Consejos y precauciones.🚧
+
+- Usa siempre casco y equipo de protección adecuado.
+- Mantén la bicicleta en buen estado: frenos, llantas y cadena revisados antes de cada salida.
+- Evita pedalear en exceso si sientes dolor o fatiga extrema en piernas o rodillas.
+- Hidrátate correctamente antes, durante y después de la actividad.
+- Respeta las normas de tránsito y señales de seguridad si circulas por vías públicas.
+- Ajusta la intensidad según tu nivel físico y no fuerces en terrenos complicados sin experiencia.
