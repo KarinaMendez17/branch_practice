@@ -7,3 +7,9 @@
 ## Beneficios.🤸🏻 
 <p align="justify">Este tipo de entrenamiento no solo mejora la condición física general, sino que también fortalece la resistencia del corazón y los pulmones, aumentando la capacidad del cuerpo para realizar actividades cotidianas con menos esfuerzo. Al ser una práctica que eleva el ritmo cardíaco, contribuye al control y la pérdida de peso mediante una mayor quema calórica, favoreciendo además la regulación del metabolismo. Otro de sus beneficios clave es la reducción del estrés, ya que la actividad cardiovascular estimula la liberación de endorfinas, hormonas que generan sensaciones de bienestar y ayudan a combatir la fatiga mental. Además, realizar ejercicios de cardio de forma constante puede mejorar la calidad del sueño, incrementar la energía diaria y reducir el riesgo de desarrollar enfermedades crónicas como hipertensión, diabetes tipo 2 o problemas coronarios. En conjunto, el entrenamiento cardiovascular no solo aporta ventajas físicas, sino que también se convierte en una herramienta efectiva para mantener el equilibrio emocional y la salud a largo plazo.</p> 
 
+## Instrucciones.✅ 
+### Jumping Jacks. 
+1. Comienza con un calentamiento breve (de 3 a 5 minutos). Marchar en el lugar o rotaciones de brazos, por ejemplo. 
+2. Realiza 3 series de 20 a 30 jumping jacks cada una, manteniendo ritmo constante. 
+3. Descansa de 30 a 60 segundos entre series. 
+4. Termina con un enfriamiento ligero y estiramientos de piernas y hombros. 
