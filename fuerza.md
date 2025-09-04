@@ -19,3 +19,16 @@
 3. Haz 3 series de 12 a 15 repeticiones.  
 4. Descansa entre 45 y 60 segundos por serie.  
 5. Finaliza con estiramientos ligeros de piernas y zona lumbar.
+
+
+## Consejos y precauciones.🚧
+
+- Mantén una técnica correcta para evitar lesiones, especialmente en rodillas y espalda baja.  
+- No uses un peso mayor al que puedas controlar con buena postura.  
+- Incrementa la carga de manera progresiva, nunca de golpe.  
+- Combina ejercicios de tren superior e inferior para un desarrollo equilibrado.  
+- Respira adecuadamente: inhala al bajar y exhala al levantar.  
+- No entrenes el mismo grupo muscular dos días seguidos; respeta los tiempos de recuperación.  
+- Usa calzado firme y superficie estable para mayor seguridad.  
+- Consulta con un profesional si tienes lesiones previas o problemas articulares.  
+
