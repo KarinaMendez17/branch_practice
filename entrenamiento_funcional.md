@@ -19,3 +19,13 @@
 3. Levanta una mano y toca el hombro contrario, luego regresa a la posición inicial.
 4. Alterna con la otra mano.
 5. Haz 3 series de 10 a 12 toques por lado.
+
+## Consejos y precauciones.🚧
+
+- Mantén siempre la técnica correcta, priorízala antes que la cantidad de repeticiones.  
+- Activa la zona abdominal en cada ejercicio para mejorar la estabilidad.  
+- Empieza con movimientos básicos antes de añadir peso o complejidad.  
+- Realiza un calentamiento dinámico previo para preparar músculos y articulaciones.  
+- No contengas la respiración; exhala en el esfuerzo e inhala al relajar.  
+- Si utilizas peso adicional, selecciona cargas acordes a tu nivel y progresión.  
+- Evita entrenar en superficies inestables si no dominas la técnica.  
