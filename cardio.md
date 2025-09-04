@@ -13,3 +13,13 @@
 2. Realiza 3 series de 20 a 30 jumping jacks cada una, manteniendo ritmo constante. 
 3. Descansa de 30 a 60 segundos entre series. 
 4. Termina con un enfriamiento ligero y estiramientos de piernas y hombros. 
+
+## Consejos y precauciones.🚧 
+- No olvides calentar antes de comenzar para evitar lesiones musculares. 
+- Utiliza ropa y calzado adecuados que permitan un buen soporte y ventilación. 
+- Escucha a tu cuerpo: detente si sientes mareo, dolor agudo o falta de aire excesiva. 
+- Incrementa la intensidad y duración de forma progresiva, no de golpe. 
+- Mantén una postura correcta al correr, saltar o pedalear para reducir el impacto en articulaciones. 
+- Respeta los tiempos de descanso entre sesiones para favorecer la recuperación. 
+- Evita ejercitarte en ambientes con temperaturas extremas o mala calidad de aire. 
+- Consulta con un profesional de la salud antes de iniciar si tienes problemas cardíacos, respiratorios o de articulaciones.
