@@ -21,3 +21,13 @@
 4. Mantén los hombros relajados y el cuello alargado, mirando ligeramente hacia adelante o hacia arriba.
 5. Mantén la postura de 15 a 30 segundos, respirando profunda y controladamente.
 6. Exhala y baja el torso suavemente al suelo. Repite 3 veces.
+
+
+## Consejos y precauciones.🚧
+
+- No fuerces la flexibilidad: el yoga es progresivo.  
+- Practica en un espacio tranquilo y con una superficie adecuada (tapete de yoga).  
+- Concéntrate en la respiración; inhala y exhala de forma consciente.  
+- Ajusta las posturas a tu nivel, usando bloques o cojines si es necesario.  
+- Evita compararte con otros: la práctica es personal.  
+- Si tienes lesiones en muñecas, espalda o rodillas, adapta o evita posturas que generen dolor.
