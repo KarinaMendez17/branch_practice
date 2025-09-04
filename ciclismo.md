@@ -9,3 +9,14 @@
 ## Beneficios.🌄
 
 <p align="justify">El ciclismo fortalece principalmente los músculos de las piernas, glúteos y abdomen, contribuyendo a un cuerpo más tonificado y estable. Al ser un ejercicio cardiovascular de bajo impacto, mejora la salud del corazón, aumenta la capacidad pulmonar y favorece la circulación sanguínea. También ayuda a quemar calorías, controlar el peso y reducir el estrés. A nivel mental, el contacto con el entorno y el ritmo constante de pedaleo promueven concentración, relajación y sensación de bienestar. Practicado regularmente, el ciclismo contribuye a prevenir lesiones, mejorar la resistencia física y mantener un estilo de vida activo y saludable.</p>
+
+
+## Instrucciones.✅
+
+### Ruta básica en bicicleta.
+
+1. Ajusta el asiento y manubrio a tu altura para mantener una postura cómoda y segura.
+2. Realiza un calentamiento de 5 a 10 minutos pedaleando suavemente en terreno llano.
+3. Incrementa la velocidad o la resistencia de manera gradual durante 20 a 30 minutos, manteniendo un ritmo constante.
+4. Termina con 5 minutos de pedaleo suave para enfriar y estiramientos de piernas y espalda.
+5. Mantén la respiración regular y controla la cadencia para no sobrecargar músculos ni articulaciones.
