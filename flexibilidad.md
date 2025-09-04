@@ -21,4 +21,13 @@
 5. Finaliza con respiraciones profundas para relajar el cuerpo.  
 
 
+## Consejos y precauciones.🚧
+
+- Nunca realices estiramientos en frío; calienta antes con movimientos suaves.  
+- Evita rebotar o forzar demasiado la articulación para no provocar desgarros.  
+- Mantén una respiración constante y profunda durante cada estiramiento.  
+- Avanza progresivamente: la flexibilidad mejora con la práctica regular, no de un día para otro.  
+- Presta atención a tus límites: detente si sientes dolor agudo.  
+- Alterna estiramientos de distintos grupos musculares para mantener equilibrio corporal.  
+- Practica de manera constante (al menos 3 veces por semana) para notar mejoras reales.  
 
