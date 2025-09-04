@@ -9,3 +9,14 @@
 ## Beneficios.🌊
 
 <p align="justify">La natación fortalece los músculos de brazos, piernas, espalda y core, contribuyendo a una postura correcta y un cuerpo equilibrado. Mejora la resistencia cardiovascular y pulmonar, favoreciendo la circulación y la oxigenación del organismo. Al realizarse en agua, reduce el riesgo de lesiones y proporciona un entrenamiento seguro y completo. También ayuda a quemar calorías, controlar el peso y disminuir el estrés mediante un efecto relajante del contacto con el agua. La práctica constante mejora la coordinación, la movilidad articular y la confianza en el medio acuático.</p>
+
+
+## Instrucciones.✅
+
+### Estilo libre básico.
+
+- Calienta en el agua moviendo brazos y piernas suavemente durante 5 minutos.
+- Nada a un ritmo moderado durante 20 a 30 minutos, alternando respiración por cada 3 o 4 brazadas.
+- Concéntrate en mantener el cuerpo alineado y la cabeza ligeramente fuera del agua para respirar correctamente.
+- Finaliza con 5 minutos de nado suave y estiramientos de brazos, espalda y piernas fuera del agua.
+- Mantén respiraciones profundas y regulares para no fatigarte rápidamente.
