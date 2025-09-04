@@ -21,3 +21,13 @@
 4. Inhala por la nariz en cinco bombeos y exhala por la boca en otros cinco.
 5. Mantén la postura hasta completar 100 bombeos.
 6. Descansa y repite de 2 a 3 veces según tu nivel.
+
+
+## Consejos y precauciones.🚧
+
+- Mantén siempre el abdomen contraído para proteger la zona lumbar.
+- Realiza los movimientos de forma lenta y controlada, evitando sacudidas.
+- No contengas la respiración: la coordinación entre aire y movimiento es clave.
+- Ajusta la intensidad según tu condición física; no es necesario forzar.
+- Si sientes dolor en cuello o espalda baja, detente y revisa tu postura.
+- Utiliza una colchoneta adecuada para evitar incomodidad en la espalda.
