@@ -21,3 +21,13 @@
 5. Vuelve a la posición de plancha y salta hacia adelante llevando los pies junto a las manos.
 6. Impúlsate hacia arriba en un salto explosivo con los brazos extendidos.
 7. Repite de forma continua durante 30 a 60 segundos.
+
+
+## Consejos y precauciones.🚧
+
+- Realiza un buen calentamiento previo, especialmente en hombros, cadera y rodillas.
+- No sacrifiques técnica por velocidad: mantén siempre la postura correcta.
+- Ajusta la intensidad a tu nivel físico: empieza con menos repeticiones y aumenta progresivamente.
+- Mantén la respiración controlada, exhalando en los movimientos explosivos.
+- Hidrátate adecuadamente durante la sesión.
+- Si tienes problemas de espalda o rodillas, consulta a un entrenador para adaptar el movimiento.
