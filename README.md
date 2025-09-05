@@ -20,7 +20,7 @@ Cada tipo de ejercicio incluye su **descripción**, **beneficios**, **instruccio
    Entrenamiento de alta intensidad con ejercicios funcionales variados.  
 
 5. **[Ejercicio de Entrenamiento Funcional](ejercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.** 🔄  
-   Ejercicios enfocados en movimientos cotidianos, mejorando fuerza y estabilidad.  
+   Ejercicios enfocados en movimientos cotidianos, mejorando fuerza y estabilidad.
 
 6. **[Ejercicio de Flexibilidad](ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.** 🤸‍♂️  
    Estiramientos y rutinas para mejorar movilidad y rango articular.  
@@ -37,7 +37,7 @@ Cada tipo de ejercicio incluye su **descripción**, **beneficios**, **instruccio
 10. **[Ejercicio de Yoga](ejercicios/yoga.md): Fomenta la relajación y la flexibilidad.** 🧘‍♀️  
    Disciplina que combina posturas, respiración y meditación para cuerpo y mente.
 
-<p align=justify>¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!</p>
+¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!</p>
 
 ---
 
