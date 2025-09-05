@@ -56,4 +56,4 @@ Cada tipo de ejercicio incluye su **descripción**, **beneficios**, **instruccio
 
 # Colaboradores
 
-Dulce karina Méndez Domínguez.
+Dulce Karina Méndez Domínguez.
