@@ -8,7 +8,7 @@
 
 ## Beneficios.⚡
 
-<p align="justify">El CrossFit mejora la fuerza general, la capacidad aeróbica y la resistencia muscular. Aumenta la coordinación, la flexibilidad y la potencia, además de favorecer la quema de calorías y la reducción de grasa corporal. Al ser dinámico y variado, evita la monotonía y estimula tanto el cuerpo como la mente. También fomenta la disciplina, la superación personal y el trabajo en comunidad, al realizarse normalmente en grupos. Su intensidad ayuda a alcanzar resultados visibles en menor tiempo en comparación con rutinas convencionales.</p>
+<p align="justify">El CrossFit mejora la fuerza general, la capacidad aeróbica y la resistencia muscular. Aumenta la coordinación, la flexibilidad y la potencia, además de favorecer la quema de calorías y la reducción de grasa corporal. Al ser dinámico y variado, evita la monotonía y estimula tanto el cuerpo como la mente. También fomenta la disciplina, la superación personal y el trabajo en comunidad, al realizarse normalmente en grupos. Su intensidad, ayuda a alcanzar resultados visibles en menor tiempo en comparación con rutinas convencionales.</p>
 
 
 ## Instrucciones.✅
